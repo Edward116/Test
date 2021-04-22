@@ -1,0 +1,11 @@
+.userProfile{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.userCard{
+    text-align: center;
+    margin: 40px;
+
+}
